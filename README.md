@@ -1,2 +1,2 @@
 # LearnGit
-Learning git basics
+Learning git basics. Git hub basics.
